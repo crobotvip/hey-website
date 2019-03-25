@@ -29,7 +29,7 @@ header .header-container .nav-box .nav-left #logo_top {
   height: 80px;
   float: left;
   margin-top: 5px;
-  background: url("../img/logo.png") no-repeat center;
+  background: url("../img/logo_tea.png") no-repeat center;
 }
 header .header-container .nav-box .nav-mid {
   height: 70px;
@@ -78,7 +78,7 @@ header .header-container .nav-box .nav-mid .navbar-nav li a {
 header .header-container .nav-box .nav-mid .navbar-nav li a::after {
   transition: all 0.2s cubic-bezier(0.445, 0.05, 0.55, 0.95);
   content: "";
-  display: block;
+  display: block;background: url(../img/logo_tea.png) no-repeat center;
   height: 2px;
   background: #c7161e;
   position: absolute;
