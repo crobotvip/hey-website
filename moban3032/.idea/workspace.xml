@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d435c5b2-0b40-433e-b81a-0a4f043e8243" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/img/beian.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -16,8 +17,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="82" selection-start-line="7" selection-start-column="82" selection-end-line="7" selection-end-column="82" />
+            <state relative-caret-position="525">
+              <caret line="1438" column="96" selection-start-line="1438" selection-start-column="96" selection-end-line="1438" selection-end-column="96" />
               <folding>
                 <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#style#0;n#h2#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -28,6 +29,8 @@
                 <element signature="n#style#0;n#h1#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#p#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#83485#83491#0" expanded="true" />
+                <element signature="e#84898#84904#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -63,7 +66,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="95" />
     <option name="y" value="150" />
     <option name="width" value="1400" />
@@ -84,6 +87,11 @@
               <item name="moban3032" type="b2602c69:ProjectViewProjectNode" />
               <item name="moban3032" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="moban3032" type="b2602c69:ProjectViewProjectNode" />
+              <item name="moban3032" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -93,13 +101,14 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554084198647" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554095784530" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\coding\hey-website\moban3032\img" />
       <recent name="$PROJECT_DIR$/img/pic" />
       <recent name="C:\Users\peng.luo\Downloads\moban3032\img\slider" />
     </key>
@@ -300,20 +309,20 @@
       <workItem from="1553665444659" duration="3579000" />
       <workItem from="1553669842622" duration="53000" />
       <workItem from="1554029860375" duration="3555000" />
-      <workItem from="1554093480129" duration="265000" />
+      <workItem from="1554093480129" duration="1453000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7456000" />
+    <option name="totallyTimeSpent" value="8644000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="95" y="150" width="1400" height="797" extended-state="0" />
+    <frame x="-8" y="32" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Capture Tool" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23656717" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16897655" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -327,9 +336,9 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Weex Console" order="7" visible="true" weight="0.10708899" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Weex Console" order="7" weight="0.38763198" />
+      <window_info anchor="bottom" id="Version Control" order="8" visible="true" weight="0.18004338" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.23644252" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Maven" />
       <window_info anchor="right" id="Capture Analysis" />
@@ -347,14 +356,24 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/img/pic/775x362-2.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="82" selection-start-line="7" selection-start-column="82" selection-end-line="7" selection-end-column="82" />
+        <state relative-caret-position="525">
+          <caret line="1438" column="96" selection-start-line="1438" selection-start-column="96" selection-end-line="1438" selection-end-column="96" />
           <folding>
             <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#style#0;n#h2#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -365,6 +384,8 @@
             <element signature="n#style#0;n#h1#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#83485#83491#0" expanded="true" />
+            <element signature="e#84898#84904#0" expanded="true" />
           </folding>
         </state>
       </provider>
