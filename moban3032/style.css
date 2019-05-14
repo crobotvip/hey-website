@@ -102,7 +102,7 @@ a,
 button,
 input {
     outline: medium none;
-    color: #434343;
+    color: #f8f9fa;
 }
 .uppercase { 
     text-transform: uppercase
@@ -1858,21 +1858,21 @@ Common Style CSS
 	left: 45px;
 	-webkit-transform: translateY(-50%);
 	        transform: translateY(-50%);
-	background-image: url(img/icon/slider-left.png);
+	background-image: url(img/icon/cc-arrow-circle-left-hover.png);
 	background-repeat: no-repeat;
     font-size: 0;
-	width: 40px;
+	width: 48px;
     line-height: 40px;
-	height: 40px;
+	height: 48px;
 	text-align: center;
 	-webkit-transition: all 0.3s ease-in-out;
 	transition: all 0.3s ease-in-out;
 }
 .hero-slider.hero-slider-3 .owl-nav > div {
-	background-image: url(img/icon/slider-left-hover.png) !important;
+	background-image: url(img/icon/cc-arrow-circle-left.png) !important;
 }
 .hero-slider.hero-slider-3 .owl-nav > .owl-next{
-    background-image: url(img/icon/slider-right-hover.png) !important;
+    background-image: url(img/icon/cc-arrow-circle-right.png) !important;
 }
 .testimonial-active .owl-nav > div{
     left: 0;
@@ -1888,18 +1888,18 @@ Common Style CSS
 .testimonial-active .owl-nav > .owl-next {
 	right: 45px;
 	left: auto;
-    background-image: url(img/icon/slider-right.png);
+    background-image: url(img/icon/cc-arrow-circle-right-hover.png);
 }
 .testimonial-active .owl-nav > .owl-next{
     right: 0;
 }
 .hero-slider .owl-nav > div:hover,
 .testimonial-active .owl-nav > div:hover{
-    background-image: url(img/icon/slider-left-hover.png);
+    background-image: url(img/icon/cc-arrow-circle-left.png);
 }
 .hero-slider .owl-nav > .owl-next:hover,
 .testimonial-active .owl-nav > .owl-next:hover{
-    background-image: url(img/icon/slider-right-hover.png);
+    background-image: url(img/icon/cc-arrow-circle-right.png);
 }
 /*------------------------
     4. Feature Area CSS
