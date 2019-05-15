@@ -1,0 +1,82 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>jQuery实现弹性TN3相册代码</title>
+<link type="text/css" rel="stylesheet" href="css/jq22.css"></link>
+</head>
+<body>
+<!-- 代码 开始 -->
+<div id="content">
+	<div id="hahaah"></div>
+    <div class="mygallery clearfix">
+	<div class="tn3 album">
+	    <h4>Fixed Dimensions</h4>
+	    <div class="tn3 description">Images with fixed dimensions</div>
+	    <div class="tn3 thumb">images/620x378/1.png</div>
+
+	    <ol id="ol">
+
+	    </ol>
+	</div>
+    </div>
+</div>
+<script src="http://www.jq22.com/jquery/jquery-1.10.2.js"></script>
+<script src="js/jquery.tn3lite.min.js"></script>
+<script>
+$(document).ready(function() {
+ var pictures=[];
+
+
+
+
+	$.get("http://gank.io/api/data/%E7%A6%8F%E5%88%A9/80/1",function(data,status){
+ 	console.log(data.results);
+    pictures=data.results;
+    console.log(tn1);
+for(var i=0;i<pictures.length;i++){
+	console.log(pictures[i].url);
+
+
+	$("#ol").append("<li><h4>"+pictures[i].createdAt+"</h4><div class=\"tn3 description\">"+pictures[i].desc+"</div><a href=\""+pictures[i].url+"\"><img src=\""+pictures[i].url+"\" /></a></li>");
+
+	}
+	var tn1 = $('.mygallery').tn3({
+		skinDir:"skins",
+		imageClick:"fullscreen",
+		image:{
+		maxZoom:1.5,
+		crop:true,
+		clickEvent:"dblclick",
+		transitions:[{
+		type:"blinds"
+		},{
+		type:"grid"
+		},{
+		type:"grid",
+		duration:460,
+		easing:"easeInQuad",
+		gridX:1,
+		gridY:8,
+		// flat, diagonal, circle, random
+		sort:"random",
+		sortReverse:false,
+		diagonalStart:"bl",
+		// fade, scale
+		method:"scale",
+		partDuration:360,
+		partEasing:"easeOutSine",
+		partDirection:"left"
+		}]
+		}
+	});
+    });
+
+});
+
+
+</script>
+<!-- 代码 结束 -->
+
+</body>
+</html>
