@@ -16,7 +16,7 @@
 <body>
 <div class="container">
 <header>
-<h1>Loading Effects for Grid Items <span>with CSS Animations</span></h1>
+<h1>点击美女开始拼图<span>请耐心等待...</span></h1>
 <nav class="codrops-demos" style="display:none">
 <a class="current-demo" href="http://www.jq22.com/demo/GridLoadingEffects-150703144712/index.html">Demo 1</a>
 <a href="http://www.jq22.com/demo/GridLoadingEffects-150703144712/index2.html">Demo 2</a>
@@ -54,7 +54,7 @@ for(var i=0;i<pictures.length;i++){
 	
 
 
-	$("#grid").append("<li style='position: absolute; left: 364px; top: 9517px;'><a href=\""+pictures[i].url+"\"><img src=\""+pictures[i].url+"\" /></a></li>");
+	$("#grid").append("<li style='position: absolute; left: 364px; top: 9517px;'><a target='_blank' href=\"Document.htm?url="+pictures[i].url+"\"><img src=\""+pictures[i].url+"\" /></a></li>");
 
 	}
 	new AnimOnScroll( document.getElementById( 'grid' ), {
