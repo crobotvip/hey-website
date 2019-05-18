@@ -122,7 +122,7 @@
         <entry file="file://$PROJECT_DIR$/moban3032/earth.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
-              <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -623,12 +623,12 @@
       <workItem from="1558032184541" duration="529000" />
       <workItem from="1558032754008" duration="672000" />
       <workItem from="1558033574029" duration="1225000" />
-      <workItem from="1558068532300" duration="7865000" />
+      <workItem from="1558068532300" duration="8035000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26718000" />
+    <option name="totallyTimeSpent" value="26888000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="797" extended-state="6" />
@@ -890,7 +890,7 @@
     <entry file="file://$PROJECT_DIR$/moban3032/earth.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
         </state>
       </provider>
