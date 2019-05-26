@@ -4,11 +4,16 @@ import requests
 
 #from urllib3 import request
 import urllib3
+#6761
 
-page = 1401
-startPage = 1400
+page = 4941
+startPage = 4940
+
+
+
 
 http = urllib3.PoolManager()
+
 
 def getPicture(page):
     pic_num = 1
@@ -18,7 +23,7 @@ def getPicture(page):
         print("\r rage:{:}%".format((i-startPage)*100/all_num))
         while True:
             url = "http://img1.mm131.me/pic/"+str(i)+"/"+str(url_pic_num)+".jpg"
-            url ="http://img.51miz.com/Photo/2017/03/27/14/P221692_3f0c82bbcf579253d1218b5310969a0e.jpeg"
+           # url ="http://img.51miz.com/Photo/2017/03/27/14/P221692_3f0c82bbcf579253d1218b5310969a0e.jpeg"
             headers = {
             'Upgrade-Insecure-Requests':'1',
             'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36Name',
