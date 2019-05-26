@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="6bff264d-ccfe-456d-8ab7-a60b9b808bb6" name="Default Changelist" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/moban3032/flowPage_beauty.html" afterPath="$PROJECT_DIR$/moban3032/flowPage_beauty.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/moban3032/flowPage_food.html" afterPath="$PROJECT_DIR$/moban3032/flowPage_food.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/moban3032/flowPage_tea.html" afterPath="$PROJECT_DIR$/moban3032/flowPage_tea.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,17 +16,44 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="flowPage_beauty.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="flowPage_beauty.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/moban3032/flowPage_beauty.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="74" column="62" lean-forward="true" selection-start-line="74" selection-start-column="62" selection-end-line="74" selection-end-column="62" />
+            <state relative-caret-position="456">
+              <caret line="118" column="9" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="118" selection-end-column="9" />
               <folding>
                 <marker date="1558850578704" expanded="true" signature="3013:3032" ph="..." />
                 <marker date="1558850578704" expanded="true" signature="3150:3169" ph="..." />
                 <marker date="1558850578704" expanded="true" signature="3288:3333" ph="..." />
                 <marker date="1558850578704" expanded="true" signature="3458:3503" ph="..." />
                 <marker date="1558850578704" expanded="true" signature="5744:5763" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="flowPage_food.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/moban3032/flowPage_food.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="277">
+              <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="118" selection-end-column="9" />
+              <folding>
+                <marker date="1558851300095" expanded="true" signature="3015:3055" ph="..." />
+                <marker date="1558851300095" expanded="true" signature="5889:5929" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="flowPage_tea.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/moban3032/flowPage_tea.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="329">
+              <caret line="52" column="52" lean-forward="true" selection-start-line="52" selection-start-column="52" selection-end-line="52" selection-end-column="52" />
+              <folding>
+                <element signature="n#style#0;n#ul#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <marker date="1558851300087" expanded="true" signature="3020:3060" ph="..." />
+                <marker date="1558851300087" expanded="true" signature="5892:5937" ph="..." />
               </folding>
             </state>
           </provider>
@@ -106,12 +134,12 @@
         <option value="$PROJECT_DIR$/moban3032/earth.html" />
         <option value="$PROJECT_DIR$/moban3032/introduce.html" />
         <option value="$PROJECT_DIR$/hello.py" />
-        <option value="$PROJECT_DIR$/moban3032/flowPage_food.html" />
-        <option value="$PROJECT_DIR$/moban3032/flowPage_tea.html" />
         <option value="$PROJECT_DIR$/moban3032/flowPage.html" />
         <option value="$PROJECT_DIR$/moban3032/picture.html" />
         <option value="$PROJECT_DIR$/moban3032/jQueryTN3lbt/index.html" />
         <option value="$PROJECT_DIR$/moban3032/flowPage_beauty.html" />
+        <option value="$PROJECT_DIR$/moban3032/flowPage_food.html" />
+        <option value="$PROJECT_DIR$/moban3032/flowPage_tea.html" />
       </list>
     </option>
   </component>
@@ -579,15 +607,16 @@
       <workItem from="1558154984880" duration="4166000" />
       <workItem from="1558166541882" duration="137000" />
       <workItem from="1558170270047" duration="4527000" />
-      <workItem from="1558839814886" duration="7926000" />
+      <workItem from="1558839814886" duration="8296000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46026000" />
+    <option name="totallyTimeSpent" value="46396000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="797" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -598,9 +627,9 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46833578" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30191457" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30191457" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12660944" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22603719" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -743,16 +772,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/moban3032/flowPage_food.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="56" lean-forward="false" selection-start-line="21" selection-start-column="56" selection-end-line="21" selection-end-column="56" />
-          <folding>
-            <marker date="1558842834857" expanded="true" signature="2853:2898" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/moban3032/js实现3D拖动相册.htm">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="244">
@@ -772,17 +791,6 @@
           <folding>
             <element signature="n#style#0;n#nav#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <marker date="1558843230664" expanded="true" signature="3046:3091" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/moban3032/flowPage_tea.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="51" column="9" lean-forward="true" selection-start-line="49" selection-start-column="8" selection-end-line="51" selection-end-column="9" />
-          <folding>
-            <element signature="n#style#0;n#ul#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1558842940748" expanded="true" signature="2858:2903" ph="..." />
           </folding>
         </state>
       </provider>
@@ -833,14 +841,37 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/moban3032/flowPage_beauty.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="74" column="62" lean-forward="true" selection-start-line="74" selection-start-column="62" selection-end-line="74" selection-end-column="62" />
+        <state relative-caret-position="456">
+          <caret line="118" column="9" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="118" selection-end-column="9" />
           <folding>
             <marker date="1558850578704" expanded="true" signature="3013:3032" ph="..." />
             <marker date="1558850578704" expanded="true" signature="3150:3169" ph="..." />
             <marker date="1558850578704" expanded="true" signature="3288:3333" ph="..." />
             <marker date="1558850578704" expanded="true" signature="3458:3503" ph="..." />
             <marker date="1558850578704" expanded="true" signature="5744:5763" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moban3032/flowPage_food.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="118" selection-end-column="9" />
+          <folding>
+            <marker date="1558851300095" expanded="true" signature="3015:3055" ph="..." />
+            <marker date="1558851300095" expanded="true" signature="5889:5929" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moban3032/flowPage_tea.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="52" column="52" lean-forward="true" selection-start-line="52" selection-start-column="52" selection-end-line="52" selection-end-column="52" />
+          <folding>
+            <element signature="n#style#0;n#ul#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1558851300087" expanded="true" signature="3020:3060" ph="..." />
+            <marker date="1558851300087" expanded="true" signature="5892:5937" ph="..." />
           </folding>
         </state>
       </provider>
