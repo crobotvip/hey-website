@@ -69,7 +69,7 @@ input:-ms-input-placeholder,textarea:-ms-input-placeholder {color:#999;font-fami
 .std_con img {margin-top:0.5rem;}
 .standard_show .sta_video {width:4.62rem;height:3.80rem;float:right;margin-top:-50px;}
 .sta_video video {width:100%;}
-/*文新系列*/.pro_tit {max-width:1278px;margin:0 auto;overflow:hidden;height:auto;}
+/*九山系列*/.pro_tit {max-width:1278px;margin:0 auto;overflow:hidden;height:auto;}
 .pro_tit h3 {font-size:30px;color:#010101;font-weight:normal;margin:60px 0 30px 0;font-weight:500;}
 .pro_tit .pro_tit_s {width:100%;height:auto;}
 .pro_tit_s .pro_tit_s_l {width:32.5%;margin-right:1.25%;height:225px;float:left;background:url(../images/xlbj_03.jpg) repeat-x;}
@@ -83,7 +83,7 @@ input:-ms-input-placeholder,textarea:-ms-input-placeholder {color:#999;font-fami
 .pro_tit_s_l  span b,.pro_tit_s_c  span b,.pro_tit_s_r  span b {font-size:16px;font-weight:500;}
 .pro_tit_s .pro_tit_s_l,.pro_tit_s .pro_tit_s_c,.pro_tit_s .pro_tit_s_r {transition:all 0.6s;-moz-transition:all 0.6s;/* -webkit-transition:all 0.6s;*/ -o-transition:all 0.6s;}
 .pro_tit_s .pro_tit_s_l:hover,.pro_tit_s .pro_tit_s_c:hover,.pro_tit_s .pro_tit_s_r:hover {margin-top:-10px;}
-/*文新介绍*/.ab_bj {width:100%;height:600px;overflow:hidden;background:url(../images/abbj_02.jpg) no-repeat center;}
+/*九山介绍*/.ab_bj {width:100%;height:600px;overflow:hidden;background:url(../images/abbj_02.jpg) no-repeat center;}
 .ab_bj .ab_bj_con,.develop_ban .ab_bj_con,.rule_bj .ab_bj_con {width:1278px;margin:0 auto;}
 .ab_bj_con .ab_bj_con_s {width:340px;overflow:hidden;text-align:center;padding:0 30px;margin:30px 0 0 0;background:#fff;opacity:0.8;}
 .ab_bj_con_s h3 {font-size:30px;color:#00a242;margin:40px 0 0 0;display:block;}
@@ -99,7 +99,7 @@ input:-ms-input-placeholder,textarea:-ms-input-placeholder {color:#999;font-fami
 .ab_con ul li a:hover img {ransform:scale(1.02);-ms-transform:scale(1.02);-moz-transform:scale(1.02);-webkit-transform:scale(1.02);-o-transform:scale(1.02);}
 .ab_con ul li p {font-size:22px;color:#000000;margin:12px 0 0 0;}
 .ab_con ul li b {color:#999999;font-weight:normal;}
-/*文新招聘*/.job_ban {width:100%;height:419px;background:url(../images/jbo_ban_02.jpg) no-repeat center;}
+/*九山招聘*/.job_ban {width:100%;height:419px;background:url(../images/jbo_ban_02.jpg) no-repeat center;}
 .job_ban p,.store_ban p {max-width:1278px;margin:0 auto;color:#FFFFFF;font-size:35px;line-height:419px;}
 .nav_menu {width:100%;height:80px;background:#FFFFFF;}
 .nav_menu_bj {background:#f3f9f9;}
@@ -154,7 +154,7 @@ input:-ms-input-placeholder,textarea:-ms-input-placeholder {color:#999;font-fami
 .off_show span {font-size:26px;color:#000000;margin-bottom:15px;display:block;}
 .off_show p {font-size:18px;color:#999999;font-weight:400;margin-top:6px;}
 .contact_main_off_cn1 .on_r {margin-right:0;!important}
-/*文新介绍*/.about_ban {width:100%;height:419px;background:url(../images/about_ban_02.jpg) no-repeat center;}
+/*九山介绍*/.about_ban {width:100%;height:419px;background:url(../images/about_ban_02.jpg) no-repeat center;}
 .about_con {max-width:1278px;margin:0 auto;overflow:hidden;}
 .about_con .about_con_tit {background:url(../images/lv_03.png) no-repeat top right;font-size:40px;color:#010101;font-weight:400;width:200px;margin:60px 0 0 0;}
 .about_con  .about_con2 {margin:40px 0 0 0;}
@@ -177,7 +177,7 @@ input:-ms-input-placeholder,textarea:-ms-input-placeholder {color:#999;font-fami
 .ceo_con_r span {width:100%;}
 .ceo_con_r span p {font-size:14px;text-align:center;color:#999999;margin:20px  0 30px 0;}
 .ceo_con_r span img {width:100%;}
-/*文新新闻*/.news_top_menu {max-width:1278px;margin:48px auto;overflow:hidden;}
+/*九山新闻*/.news_top_menu {max-width:1278px;margin:48px auto;overflow:hidden;}
 .news_top_menu .news_top_menu1 {float:left;margin-right:53px;}
 .news_top_menu1 a {width:161px;height:43px;background:#f3f9f9;display:block;color:#000000;font-size:18px;text-align:center;line-height:43px;}
 .news_top_menu1 a.news_act {color:#FFFFFF;background:#00A242;}
@@ -231,7 +231,7 @@ input:-ms-input-placeholder,textarea:-ms-input-placeholder {color:#999;font-fami
 .n-dealer-recruit .list17 .imgbox .swiper-slide.swiper-slide-active img {margin-top:60px;}
 .n-dealer-recruit .list17 .swiper-button-next {width:60px;height:60px;border-radius:50%;background:none;-webkit-transition:all .5s ease;transition:all .5s ease;background:url(../images/next1.png) no-repeat;}
 .n-dealer-recruit .list17 .swiper-button-prev {width:60px;height:60px;border-radius:50%;background:none;-webkit-transition:all .5s ease;transition:all .5s ease;background:url(../images/prev1.png) no-repeat;}
-/*文新发展*/.develop_ban {width:100%;height:600px;overflow:hidden;background:url(../images/fz_02.jpg) no-repeat center;}
+/*九山发展*/.develop_ban {width:100%;height:600px;overflow:hidden;background:url(../images/fz_02.jpg) no-repeat center;}
 .develop_main {max-width:1278px;height:auto;overflow:hidden;padding:0;margin:0 auto;}
 .develop_main .develop_main_tit {margin:60px 0 0 0;padding:0;font-size:30px;color:#010101;font-weight:400;}
 .develop_main .develop_main_list {width:100%;}
