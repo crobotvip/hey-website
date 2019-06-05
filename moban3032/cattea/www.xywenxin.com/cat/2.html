@@ -388,7 +388,7 @@ $('#province').change(function(){
 $('#city').change(function(){
 	getStoreList();
 });
-jsMap.json( "/Template/pc/0/resources/js/china.s.json" ).done(function (data) {
+jsMap.json( "/cattea/www.xywenxin.com/Template/pc/0/resources/js/china.s.json" ).done(function (data) {
 	var defaultArea = decodeURIComponent(window.location.hash).replace('#','');
 		defaultArea = defaultArea || '河南';
 		defaultClick = area_name_pinyin[defaultArea] || '';
