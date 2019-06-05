@@ -2,51 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9fdd4fde-886b-43df-af65-b2986a7d4ea2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www.xywenxin.com/Template/pc/0/resources/css/main987a.css" beforeDir="false" afterPath="$PROJECT_DIR$/www.xywenxin.com/Template/pc/0/resources/css/main987a.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/www.xywenxin.com/Template/pc/0/resources/js/china.s.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/www.xywenxin.com/cat/1.html" beforeDir="false" afterPath="$PROJECT_DIR$/www.xywenxin.com/cat/1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www.xywenxin.com/cat/10.html" beforeDir="false" afterPath="$PROJECT_DIR$/www.xywenxin.com/cat/10.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www.xywenxin.com/cat/11.html" beforeDir="false" afterPath="$PROJECT_DIR$/www.xywenxin.com/cat/11.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www.xywenxin.com/cat/12.html" beforeDir="false" afterPath="$PROJECT_DIR$/www.xywenxin.com/cat/12.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www.xywenxin.com/cat/15.html" beforeDir="false" afterPath="$PROJECT_DIR$/www.xywenxin.com/cat/15.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www.xywenxin.com/cat/16.html" beforeDir="false" afterPath="$PROJECT_DIR$/www.xywenxin.com/cat/16.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www.xywenxin.com/cat/16/2.html" beforeDir="false" afterPath="$PROJECT_DIR$/www.xywenxin.com/cat/16/2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www.xywenxin.com/cat/16/3.html" beforeDir="false" afterPath="$PROJECT_DIR$/www.xywenxin.com/cat/16/3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www.xywenxin.com/cat/16/4.html" beforeDir="false" afterPath="$PROJECT_DIR$/www.xywenxin.com/cat/16/4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www.xywenxin.com/cat/16/5.html" beforeDir="false" afterPath="$PROJECT_DIR$/www.xywenxin.com/cat/16/5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www.xywenxin.com/cat/16/6.html" beforeDir="false" afterPath="$PROJECT_DIR$/www.xywenxin.com/cat/16/6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www.xywenxin.com/cat/17.html" beforeDir="false" afterPath="$PROJECT_DIR$/www.xywenxin.com/cat/17.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www.xywenxin.com/cat/17/2.html" beforeDir="false" afterPath="$PROJECT_DIR$/www.xywenxin.com/cat/17/2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www.xywenxin.com/cat/18.html" beforeDir="false" afterPath="$PROJECT_DIR$/www.xywenxin.com/cat/18.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www.xywenxin.com/cat/19.html" beforeDir="false" afterPath="$PROJECT_DIR$/www.xywenxin.com/cat/19.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www.xywenxin.com/cat/2.html" beforeDir="false" afterPath="$PROJECT_DIR$/www.xywenxin.com/cat/2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www.xywenxin.com/cat/20.html" beforeDir="false" afterPath="$PROJECT_DIR$/www.xywenxin.com/cat/20.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www.xywenxin.com/cat/21.html" beforeDir="false" afterPath="$PROJECT_DIR$/www.xywenxin.com/cat/21.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www.xywenxin.com/cat/4.html" beforeDir="false" afterPath="$PROJECT_DIR$/www.xywenxin.com/cat/4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www.xywenxin.com/cat/6.html" beforeDir="false" afterPath="$PROJECT_DIR$/www.xywenxin.com/cat/6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www.xywenxin.com/cat/8.html" beforeDir="false" afterPath="$PROJECT_DIR$/www.xywenxin.com/cat/8.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www.xywenxin.com/cat/9.html" beforeDir="false" afterPath="$PROJECT_DIR$/www.xywenxin.com/cat/9.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www.xywenxin.com/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/www.xywenxin.com/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www.xywenxin.com/index90bb.html" beforeDir="false" afterPath="$PROJECT_DIR$/www.xywenxin.com/index90bb.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www.xywenxin.com/info/16/27.html" beforeDir="false" afterPath="$PROJECT_DIR$/www.xywenxin.com/info/16/27.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www.xywenxin.com/info/16/34.html" beforeDir="false" afterPath="$PROJECT_DIR$/www.xywenxin.com/info/16/34.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www.xywenxin.com/info/16/35.html" beforeDir="false" afterPath="$PROJECT_DIR$/www.xywenxin.com/info/16/35.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www.xywenxin.com/info/16/36.html" beforeDir="false" afterPath="$PROJECT_DIR$/www.xywenxin.com/info/16/36.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www.xywenxin.com/info/16/50.html" beforeDir="false" afterPath="$PROJECT_DIR$/www.xywenxin.com/info/16/50.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www.xywenxin.com/info/16/55.html" beforeDir="false" afterPath="$PROJECT_DIR$/www.xywenxin.com/info/16/55.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www.xywenxin.com/info/16/56.html" beforeDir="false" afterPath="$PROJECT_DIR$/www.xywenxin.com/info/16/56.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www.xywenxin.com/info/16/57.html" beforeDir="false" afterPath="$PROJECT_DIR$/www.xywenxin.com/info/16/57.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www.xywenxin.com/info/16/58.html" beforeDir="false" afterPath="$PROJECT_DIR$/www.xywenxin.com/info/16/58.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www.xywenxin.com/info/16/59.html" beforeDir="false" afterPath="$PROJECT_DIR$/www.xywenxin.com/info/16/59.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www.xywenxin.com/info/16/60.html" beforeDir="false" afterPath="$PROJECT_DIR$/www.xywenxin.com/info/16/60.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www.xywenxin.com/info/17/24.html" beforeDir="false" afterPath="$PROJECT_DIR$/www.xywenxin.com/info/17/24.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www.xywenxin.com/info/17/26.html" beforeDir="false" afterPath="$PROJECT_DIR$/www.xywenxin.com/info/17/26.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www.xywenxin.com/info/17/37.html" beforeDir="false" afterPath="$PROJECT_DIR$/www.xywenxin.com/info/17/37.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www.xywenxin.com/info/17/40.html" beforeDir="false" afterPath="$PROJECT_DIR$/www.xywenxin.com/info/17/40.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www.xywenxin.com/info/17/45.html" beforeDir="false" afterPath="$PROJECT_DIR$/www.xywenxin.com/info/17/45.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www.xywenxin.com/info/17/52.html" beforeDir="false" afterPath="$PROJECT_DIR$/www.xywenxin.com/info/17/52.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www.xywenxin.com/info/18/18.html" beforeDir="false" afterPath="$PROJECT_DIR$/www.xywenxin.com/info/18/18.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,18 +13,16 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1767" />
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www.xywenxin.com/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="337">
+            <state relative-caret-position="5054">
               <caret line="266" column="29" selection-start-line="266" selection-start-column="29" selection-end-line="266" selection-end-column="29" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -79,28 +35,33 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www.xywenxin.com/cat/19.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
+            <state relative-caret-position="2242">
               <caret line="118" column="37" selection-start-line="118" selection-start-column="37" selection-end-line="118" selection-end-column="37" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www.xywenxin.com/cat/1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="446">
-              <caret line="212" column="91" lean-forward="true" selection-start-line="212" selection-start-column="91" selection-end-line="212" selection-end-column="91" />
+            <state relative-caret-position="408">
+              <caret line="210" column="11" selection-start-line="210" selection-start-column="11" selection-end-line="210" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/www.xywenxin.com/cat/2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="396" column="19" lean-forward="true" selection-start-line="396" selection-start-column="19" selection-end-line="396" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www.xywenxin.com/cat/2.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="111" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/www.xywenxin.com/Template/pc/0/resources/js/china.s.json">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -111,16 +72,15 @@
       <find>&lt;a href=&quot;../index.html&quot;&gt;&lt;img src=&quot;../Template/pc/0/resources/images/93logo.png&quot; /&gt;&lt;/a&gt;</find>
       <find>&lt;span&gt;&lt;img src=&quot;Template/pc/0/resources/images/ft_03.jpg&quot; /&gt;&lt;/span&gt;</find>
       <find>&lt;span&gt;&lt;img src=&quot;Template/pc/0/resources/images/93logo.png&quot; /&gt;&lt;/span&gt;</find>
-      <find>&lt;span&gt;&lt;img src=&quot;Template/pc/0/resources/images/93logo.png&quot; /&gt;&lt;/span&gt;</find>
       <find>信阳市中山北路205号</find>
       <find>400-0376-333</find>
       <find>xywxcy@126.com</find>
       <find>&lt;span&gt;&lt;img src=&quot;../Template/pc/0/resources/images/ft_03.jpg&quot; /&gt;&lt;/span&gt;</find>
       <find>文新</find>
+      <find>Template/pc/0/resources/js/china.s.json</find>
     </findStrings>
     <replaceStrings>
       <replace>九山茶</replace>
-      <replace />
       <replace>&lt;a href=&quot;../index.html&quot;&gt;&lt;img style=&quot;width&quot; src=&quot;../Template/pc/0/resources/images/93logo.png&quot; /&gt;&lt;/a&gt;</replace>
       <replace>&lt;a href=&quot;../index.html&quot;&gt;&lt;img style=&quot;width:242px&quot; src=&quot;../Template/pc/0/resources/images/93logo.png&quot; /&gt;&lt;/a&gt;</replace>
       <replace>&lt;span&gt;&lt;img src=&quot;Template/pc/0/resources/images/93logo.png&quot; /&gt;&lt;/span&gt;</replace>
@@ -130,6 +90,7 @@
       <replace>crobot@163.com</replace>
       <replace>&lt;span&gt;&lt;img width=&quot;185px&quot; src=&quot;../Template/pc/0/resources/images/93logo.png&quot; /&gt;&lt;/span&gt;</replace>
       <replace>九山</replace>
+      <replace />
     </replaceStrings>
     <dirStrings>
       <dir>E:\coding\hey-website\moban3032\cattea\www.xywenxin.com</dir>
@@ -148,9 +109,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="84" />
-    <option name="y" value="118" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="855" />
+    <option name="y" value="105" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -160,8 +121,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -229,6 +190,16 @@
               <item name="0" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="cattea" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cattea" type="462c0819:PsiDirectoryNode" />
+              <item name="www.xywenxin.com" type="462c0819:PsiDirectoryNode" />
+              <item name="Template" type="462c0819:PsiDirectoryNode" />
+              <item name="pc" type="462c0819:PsiDirectoryNode" />
+              <item name="0" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -238,10 +209,15 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559651304619" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559714627473" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\coding\hey-website\moban3032\cattea\www.xywenxin.com\Template\pc\0\resources\js" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -265,30 +241,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559649488676</updated>
-      <workItem from="1559649494624" duration="1803000" />
+      <workItem from="1559649494624" duration="2194000" />
+      <workItem from="1559712058218" duration="1945000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1803000" />
+    <option name="totallyTimeSpent" value="4139000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="32" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.123667374" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17803837" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Weex Console" visible="true" weight="0.13232104" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -296,15 +267,21 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Weex Console" order="7" visible="true" weight="0.13232104" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -312,20 +289,11 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1767" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www.xywenxin.com/cat/2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="111" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/www.xywenxin.com/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
+        <state relative-caret-position="5054">
           <caret line="266" column="29" selection-start-line="266" selection-start-column="29" selection-end-line="266" selection-end-column="29" />
           <folding>
             <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -336,15 +304,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/www.xywenxin.com/cat/19.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
+        <state relative-caret-position="2242">
           <caret line="118" column="37" selection-start-line="118" selection-start-column="37" selection-end-line="118" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www.xywenxin.com/cat/1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="446">
-          <caret line="212" column="91" lean-forward="true" selection-start-line="212" selection-start-column="91" selection-end-line="212" selection-end-column="91" />
+        <state relative-caret-position="408">
+          <caret line="210" column="11" selection-start-line="210" selection-start-column="11" selection-end-line="210" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www.xywenxin.com/Template/pc/0/resources/js/china.s.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www.xywenxin.com/cat/2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="396" column="19" lean-forward="true" selection-start-line="396" selection-start-column="19" selection-end-line="396" selection-end-column="19" />
         </state>
       </provider>
     </entry>
