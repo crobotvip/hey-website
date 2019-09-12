@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d435c5b2-0b40-433e-b81a-0a4f043e8243" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,11 +12,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="260" column="18" lean-forward="true" selection-start-line="210" selection-start-column="12" selection-end-line="260" selection-end-column="18" />
+            <state relative-caret-position="209">
+              <caret line="601" column="61" selection-start-line="601" selection-start-column="61" selection-end-line="601" selection-end-column="61" />
               <folding>
                 <element signature="n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#style#0;n#h2#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -30,19 +29,15 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/picture.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="247" column="55" lean-forward="true" selection-start-line="247" selection-start-column="55" selection-end-line="247" selection-end-column="55" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/img/tea/tea62.jpg">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/style.css">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/picture.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36119">
-              <caret line="1901" column="56" selection-start-line="1901" selection-start-column="56" selection-end-line="1901" selection-end-column="56" />
+            <state relative-caret-position="-11077">
+              <caret line="88" column="92" lean-forward="true" selection-start-line="88" selection-start-column="92" selection-end-line="88" selection-end-column="92" />
             </state>
           </provider>
         </entry>
@@ -106,6 +101,7 @@
       <find>首页</find>
       <find>jquery-</find>
       <find>popper</find>
+      <find>tea62</find>
     </findStrings>
     <replaceStrings>
       <replace>热卖品</replace>
@@ -149,6 +145,17 @@
               <item name="moban3032" type="b2602c69:ProjectViewProjectNode" />
               <item name="moban3032" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="moban3032" type="b2602c69:ProjectViewProjectNode" />
+              <item name="moban3032" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="moban3032" type="b2602c69:ProjectViewProjectNode" />
+              <item name="moban3032" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="tea" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -160,7 +167,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568273848731" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568279734657" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -374,12 +381,12 @@
       <workItem from="1554029860375" duration="3883000" />
       <workItem from="1557848161500" duration="3288000" />
       <workItem from="1558019207118" duration="861000" />
-      <workItem from="1568272263420" duration="1584000" />
+      <workItem from="1568272263420" duration="3738000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13248000" />
+    <option name="totallyTimeSpent" value="15402000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="32" width="1936" height="1056" extended-state="6" />
@@ -387,7 +394,7 @@
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Capture Tool" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17697228" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17697228" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -403,7 +410,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Weex Console" order="7" weight="0.4904271" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.329718" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.12906724" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3329718" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Maven" />
       <window_info anchor="right" id="Capture Analysis" />
@@ -498,17 +505,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/picture.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="247" column="55" lean-forward="true" selection-start-line="247" selection-start-column="55" selection-end-line="247" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="260" column="18" lean-forward="true" selection-start-line="210" selection-start-column="12" selection-end-line="260" selection-end-column="18" />
+        <state relative-caret-position="209">
+          <caret line="601" column="61" selection-start-line="601" selection-start-column="61" selection-end-line="601" selection-end-column="61" />
           <folding>
             <element signature="n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#style#0;n#h2#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -516,6 +516,19 @@
             <element signature="n#style#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/tea/tea62.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/tea/tea62.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/picture.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-11077">
+          <caret line="88" column="92" lean-forward="true" selection-start-line="88" selection-start-column="92" selection-end-line="88" selection-end-column="92" />
         </state>
       </provider>
     </entry>
